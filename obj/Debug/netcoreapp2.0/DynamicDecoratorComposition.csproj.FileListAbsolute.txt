@@ -1,0 +1,11 @@
+/Users/koji/Repositories/Csharp/DynamicDecoratorComposition/obj/Debug/netcoreapp2.0/DynamicDecoratorComposition.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/DynamicDecoratorComposition/obj/Debug/netcoreapp2.0/DynamicDecoratorComposition.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/DynamicDecoratorComposition/obj/Debug/netcoreapp2.0/DynamicDecoratorComposition.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/DynamicDecoratorComposition/bin/Debug/netcoreapp2.0/DynamicDecoratorComposition.deps.json
+/Users/koji/Repositories/Csharp/DynamicDecoratorComposition/bin/Debug/netcoreapp2.0/DynamicDecoratorComposition.runtimeconfig.json
+/Users/koji/Repositories/Csharp/DynamicDecoratorComposition/bin/Debug/netcoreapp2.0/DynamicDecoratorComposition.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/DynamicDecoratorComposition/bin/Debug/netcoreapp2.0/DynamicDecoratorComposition.dll
+/Users/koji/Repositories/Csharp/DynamicDecoratorComposition/bin/Debug/netcoreapp2.0/DynamicDecoratorComposition.pdb
+/Users/koji/Repositories/Csharp/DynamicDecoratorComposition/obj/Debug/netcoreapp2.0/DynamicDecoratorComposition.csprojResolveAssemblyReference.cache
+/Users/koji/Repositories/Csharp/DynamicDecoratorComposition/obj/Debug/netcoreapp2.0/DynamicDecoratorComposition.dll
+/Users/koji/Repositories/Csharp/DynamicDecoratorComposition/obj/Debug/netcoreapp2.0/DynamicDecoratorComposition.pdb
